@@ -1,0 +1,16 @@
+SOUNDS AND VIDEOS:
+
+0 - start_game_video.mp4
+1 - exit_game_video.mp4
+2 - gameplay_music.wav (65daysofstatic - "five waves" from "replicr, 2019")
+3 - game_over_sound.wav
+4 - game_over_energy.mp4
+5 - game_over_asteroid.mp4
+6 - explorer_shooting.mp3
+7 - bad_asteroid_explosion.wav
+8 - good_asteroid_explosion.mp3
+9 - pause.mp3
+10 - unpause.mp3
+
+BACKGROUND IMAGES (NUM. OF PIXEL SCREENS: 4)
+0 - gameplay_background.png
